@@ -1,0 +1,5 @@
+Mid term syllabus 
+1. Lecture -1
+2. Lecture -2
+3. Bresenham's algorithm 
+4. Mid point circle algorithm
